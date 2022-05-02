@@ -1,5 +1,30 @@
-img {
+/* Cabeçalho */
+
+.principal {
     max-width: 100%;
-    width: px;
+    width: 430px;
     height: 395px;
+}
+
+.comeco{
+    background: #2aad65;
+    padding: 30px;
+    margin-bottom: 10px;
+}
+
+.titulo{
+    font-size: 40px;
+    text-align: center;
+}
+
+.times{
+    font-size: 25px;
+    text-align: right;
+    text-decoration: none;
+}
+
+.buscar{
+    font-size: 25px;;
+    text-align: center;
+    text-decoration: none;
 }
