@@ -95,11 +95,11 @@ section div:hover{
 }
 
 .imagens{
-    max-width: 100%;
     width: 500px;
     height: 300px;
     padding: 20px;
     display: inline-block;
+    margin-left: 10px;
 }
 .conteine{
     display: flex;
@@ -137,4 +137,11 @@ section div:hover{
     left: 550px;;
     bottom: -450px;
     font-size: 20px;
+}
+
+.parg2img3{
+    position: absolute;
+    right: 200px;
+    bottom: -700px;
+    font-size: 33px;
 }
