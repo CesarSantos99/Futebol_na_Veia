@@ -124,3 +124,17 @@ section div:hover{
     bottom: -80px;
     font-size: 20px;
 }
+
+.img2{
+    position: absolute;
+    right: 120px;
+    bottom: -350px;
+    font-size: 33px;
+}
+
+.parg3img2{
+    position: absolute;
+    left: 550px;;
+    bottom: -450px;
+    font-size: 20px;
+}
