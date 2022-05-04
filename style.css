@@ -101,47 +101,25 @@ section div:hover{
     display: inline-block;
     margin-left: 10px;
 }
+
 .conteine{
-    display: flex;
-}
-
-.conteine .primeiro{
     position: relative;
-    padding: 20px 30px 0 0;
-    font-size: 18px;
 }
 
-.segundo{
+.conteine h3{
     position: absolute;
-    right: 60px;
-    bottom: 20px;
-    font-size: 33px;
+    top: 27px;
+    left: 550px;
 }
 
-.terceiro{
+.paragr2{
     position: absolute;
-    left: 550px;;
-    bottom: -80px;
-    font-size: 20px;
+    top: 100px;
+    left: 550px;
 }
 
-.img2{
+.parag3{
     position: absolute;
-    right: 120px;
-    bottom: -350px;
-    font-size: 33px;
-}
-
-.parg3img2{
-    position: absolute;
-    left: 550px;;
-    bottom: -450px;
-    font-size: 20px;
-}
-
-.parg2img3{
-    position: absolute;
-    right: 200px;
-    bottom: -700px;
-    font-size: 33px;
+    bottom: 100px;
+    left: 550px;
 }
