@@ -1,3 +1,5 @@
+
+
 /* Cabeçalho */
 
 .comeco{
@@ -112,14 +114,35 @@ section div:hover{
     left: 550px;
 }
 
-.paragr2{
+.paragr1{
     position: absolute;
     top: 100px;
     left: 550px;
+    font-size: 30px;
 }
 
-.parag3{
+.parag2{
     position: absolute;
     bottom: 100px;
     left: 550px;
+    font-size: 18px;
+}
+
+/* /* rodape  */
+
+footer{
+    background-color: #2aad65;
+}
+
+
+.rodape img{
+    position: relative;
+    left: 650px;
+    width: 50px;
+    margin: 40px 0 ;
+}
+
+footer p{
+    text-align: center;
+    padding-bottom: 30px;
 }
